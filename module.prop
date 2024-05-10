@@ -1,0 +1,7 @@
+id=openeuicc
+name=OpenEUICC
+version=unpriv-beta01-24-g5785fe2
+versionCode=3
+author=PeterCxy、笨蛋ovo
+description=Add OpenEUICC for eSIM
+updateJson=https://github.com/liuran001/OpenEUICC_Magisk_Module/raw/main/update.json
